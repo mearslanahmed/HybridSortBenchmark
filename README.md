@@ -1,6 +1,5 @@
 # Hybrid MergeSort Benchmark
 
-## To preview the README file in normal readable way please press CTRL+Shift+V
 
 ## Overview
 
@@ -90,6 +89,17 @@ pip install -r requirements.txt
 ```bash
 python plot_results.py
 ```
+
+## 📊 Graph Results
+
+Here are the output graphs generated from the Hybrid MergeSort benchmark:
+
+<p align="center">
+  <img src="Graphs SS/Figure_1.png" alt="Hybrid Sort Graph 1" width="500"/>
+  <br/>
+  <img src="Graphs SS/Figure_2.png" alt="Hybrid Sort Graph 2" width="500"/>
+</p>
+
 
 ## Author
 
